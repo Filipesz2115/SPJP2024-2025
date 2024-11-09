@@ -14,3 +14,4 @@
 - [Mariusz Kamiński](https://github.com/MKaminski664/Lab-UG)
 - [Łukasz Słoński](https://github.com/Lukislonski/SlonskiL)
 - [Dawid Wawer](https://github.com/niepowiemcinazwy/jezyki_programowania.git)
+- [Filip Bocian](https://github.com/Filipesz2115/Filipesz2115.git)
